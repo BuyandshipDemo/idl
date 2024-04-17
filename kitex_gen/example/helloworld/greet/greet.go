@@ -5,8 +5,8 @@ package greet
 import (
 	"context"
 	"fmt"
+	"github.com/BuyandshipDemo/idl/kitex_gen/example/helloworld/base"
 	"github.com/apache/thrift/lib/go/thrift"
-	"idl/kitex_gen/example/helloworld/base"
 	"strings"
 )
 

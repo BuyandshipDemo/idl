@@ -2,8 +2,8 @@
 package itemservice
 
 import (
+	greet "github.com/BuyandshipDemo/idl/kitex_gen/example/helloworld/greet"
 	server "github.com/cloudwego/kitex/server"
-	greet "idl/kitex_gen/example/helloword/greet"
 )
 
 // NewServer creates a server.Server with the given handler and options.

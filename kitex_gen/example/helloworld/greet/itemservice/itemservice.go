@@ -5,9 +5,9 @@ package itemservice
 import (
 	"context"
 	"errors"
+	greet "github.com/BuyandshipDemo/idl/kitex_gen/example/helloworld/greet"
 	client "github.com/cloudwego/kitex/client"
 	kitex "github.com/cloudwego/kitex/pkg/serviceinfo"
-	greet "idl/kitex_gen/example/helloword/greet"
 )
 
 var errInvalidMessageType = errors.New("invalid message type for service method handler")

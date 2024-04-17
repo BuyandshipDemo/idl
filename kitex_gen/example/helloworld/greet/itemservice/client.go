@@ -4,9 +4,9 @@ package itemservice
 
 import (
 	"context"
+	greet "github.com/BuyandshipDemo/idl/kitex_gen/example/helloworld/greet"
 	client "github.com/cloudwego/kitex/client"
 	callopt "github.com/cloudwego/kitex/client/callopt"
-	greet "idl/kitex_gen/example/helloword/greet"
 )
 
 // Client is designed to provide IDL-compatible methods with call-option parameter for kitex framework.

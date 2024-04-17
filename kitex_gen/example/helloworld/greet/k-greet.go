@@ -12,7 +12,7 @@ import (
 
 	"github.com/cloudwego/kitex/pkg/protocol/bthrift"
 
-	"idl/kitex_gen/example/helloworld/base"
+	"github.com/BuyandshipDemo/idl/kitex_gen/example/helloworld/base"
 )
 
 // unused protection

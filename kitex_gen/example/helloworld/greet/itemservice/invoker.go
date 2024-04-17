@@ -3,8 +3,8 @@
 package itemservice
 
 import (
+	greet "github.com/BuyandshipDemo/idl/kitex_gen/example/helloworld/greet"
 	server "github.com/cloudwego/kitex/server"
-	greet "idl/kitex_gen/example/helloword/greet"
 )
 
 // NewInvoker creates a server.Invoker with the given handler and options.

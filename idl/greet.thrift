@@ -1,4 +1,4 @@
-namespace go example.helloword.greet
+namespace go example.helloworld.greet
 
 include "base.thrift"
 
