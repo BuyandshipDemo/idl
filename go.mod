@@ -1,4 +1,4 @@
-module idl
+module github.com/BuyandshipDemo/idl
 
 go 1.22.2
 
